@@ -1,0 +1,12 @@
+{
+  "file": "20240918_ingest_batch7_raw.jsonl",
+  "path": "vendor-archive/releases/nimbus-rawsplit-2024-09/data/20240918_ingest_batch7_raw.jsonl",
+  "format": "jsonl",
+  "row_count": 96,
+  "sha256": "5b740c74ba00d24e723467406be96d28ea1e516dc5611f562c49aec20aee9104",
+  "schema_keys": [
+    "id",
+    "text",
+    "meta"
+  ]
+}
