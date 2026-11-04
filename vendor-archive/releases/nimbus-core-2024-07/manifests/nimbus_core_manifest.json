@@ -1,0 +1,14 @@
+{
+  "file": "20240722_batch5_core_v1.chatfmt.jsonl",
+  "path": "vendor-archive/releases/nimbus-core-2024-07/data/20240722_batch5_core_v1.chatfmt.jsonl",
+  "format": "jsonl",
+  "row_count": 512,
+  "sha256": "075fb93e729b7ca83b028e3cd57fa7940e79721073d7d16a9464136bfde2460a",
+  "schema_keys": [
+    "instruction",
+    "input",
+    "output",
+    "source",
+    "lang"
+  ]
+}
