@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "directory": "vendor-archive/releases/nimbus-chat-2024-09",
+      "kind": "release",
+      "display_name": "Nimbus Chat Corpus (2024-09)"
+    },
+    {
+      "directory": "vendor-archive/releases/nimbus-core-2024-07",
+      "kind": "release",
+      "display_name": "Nimbus Core Corpus (2024-07)"
+    },
+    {
+      "directory": "vendor-archive/releases/nimbus-annotations-batch7",
+      "kind": "annotation",
+      "display_name": "Nimbus Batch 7 Annotation Layer"
+    },
+    {
+      "directory": "vendor-archive/releases/nimbus-multilingual-2024-09",
+      "kind": "release",
+      "display_name": "Nimbus Multilingual Chat Corpus (2024-09)"
+    },
+    {
+      "directory": "vendor-archive/releases/nimbus-rawsplit-2024-09",
+      "kind": "release",
+      "display_name": "Nimbus Raw Split (2024-09)"
+    },
+    {
+      "directory": "vendor-archive/mirrors/nimbus-card-mirror",
+      "kind": "mirror",
+      "display_name": "Nimbus release card mirror"
+    }
+  ]
+}
