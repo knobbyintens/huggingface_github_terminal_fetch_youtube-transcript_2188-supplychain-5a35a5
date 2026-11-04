@@ -1,0 +1,96 @@
+{"id": "raw-0001", "text": "Raw scrape segment 1: retry a failing HTTP request with backoff", "meta": {"origin": "guide", "bytes": 751}}
+{"id": "raw-0002", "text": "Raw scrape segment 2: normalize whitespace in a batch of user prompts", "meta": {"origin": "guide", "bytes": 447}}
+{"id": "raw-0003", "text": "Raw scrape segment 3: extract the top three frequent tokens", "meta": {"origin": "manual", "bytes": 745}}
+{"id": "raw-0004", "text": "Raw scrape segment 4: sum values grouped by category", "meta": {"origin": "blog", "bytes": 730}}
+{"id": "raw-0005", "text": "Raw scrape segment 5: normalize whitespace in a batch of user prompts", "meta": {"origin": "blog", "bytes": 241}}
+{"id": "raw-0006", "text": "Raw scrape segment 6: convert a nested list into a flat mapping", "meta": {"origin": "manual", "bytes": 586}}
+{"id": "raw-0007", "text": "Raw scrape segment 7: check numeric ranges for numeric columns", "meta": {"origin": "guide", "bytes": 247}}
+{"id": "raw-0008", "text": "Raw scrape segment 8: sum values grouped by category", "meta": {"origin": "blog", "bytes": 476}}
+{"id": "raw-0009", "text": "Raw scrape segment 9: normalize whitespace in a batch of user prompts", "meta": {"origin": "blog", "bytes": 226}}
+{"id": "raw-0010", "text": "Raw scrape segment 10: compare two revision snapshots and list changed fields", "meta": {"origin": "guide", "bytes": 859}}
+{"id": "raw-0011", "text": "Raw scrape segment 11: validate that every record has a non-empty identifier", "meta": {"origin": "blog", "bytes": 339}}
+{"id": "raw-0012", "text": "Raw scrape segment 12: split a long document into overlapping chunks", "meta": {"origin": "manual", "bytes": 711}}
+{"id": "raw-0013", "text": "Raw scrape segment 13: check numeric ranges for numeric columns", "meta": {"origin": "guide", "bytes": 441}}
+{"id": "raw-0014", "text": "Raw scrape segment 14: extract the top three frequent tokens", "meta": {"origin": "manual", "bytes": 188}}
+{"id": "raw-0015", "text": "Raw scrape segment 15: sum values grouped by category", "meta": {"origin": "guide", "bytes": 278}}
+{"id": "raw-0016", "text": "Raw scrape segment 16: remove duplicate rows from a CSV while keeping the first occurrence", "meta": {"origin": "blog", "bytes": 670}}
+{"id": "raw-0017", "text": "Raw scrape segment 17: convert a nested list into a flat mapping", "meta": {"origin": "guide", "bytes": 344}}
+{"id": "raw-0018", "text": "Raw scrape segment 18: merge two sorted dictionaries by key", "meta": {"origin": "guide", "bytes": 188}}
+{"id": "raw-0019", "text": "Raw scrape segment 19: normalize whitespace in a batch of user prompts", "meta": {"origin": "manual", "bytes": 359}}
+{"id": "raw-0020", "text": "Raw scrape segment 20: split a long document into overlapping chunks", "meta": {"origin": "manual", "bytes": 703}}
+{"id": "raw-0021", "text": "Raw scrape segment 21: merge two sorted dictionaries by key", "meta": {"origin": "guide", "bytes": 378}}
+{"id": "raw-0022", "text": "Raw scrape segment 22: retry a failing HTTP request with backoff", "meta": {"origin": "manual", "bytes": 245}}
+{"id": "raw-0023", "text": "Raw scrape segment 23: sum values grouped by category", "meta": {"origin": "blog", "bytes": 892}}
+{"id": "raw-0024", "text": "Raw scrape segment 24: convert a nested list into a flat mapping", "meta": {"origin": "guide", "bytes": 827}}
+{"id": "raw-0025", "text": "Raw scrape segment 25: convert a nested list into a flat mapping", "meta": {"origin": "manual", "bytes": 178}}
+{"id": "raw-0026", "text": "Raw scrape segment 26: validate that every record has a non-empty identifier", "meta": {"origin": "blog", "bytes": 733}}
+{"id": "raw-0027", "text": "Raw scrape segment 27: remove duplicate rows from a CSV while keeping the first occurrence", "meta": {"origin": "manual", "bytes": 284}}
+{"id": "raw-0028", "text": "Raw scrape segment 28: validate that every record has a non-empty identifier", "meta": {"origin": "manual", "bytes": 699}}
+{"id": "raw-0029", "text": "Raw scrape segment 29: check numeric ranges for numeric columns", "meta": {"origin": "guide", "bytes": 594}}
+{"id": "raw-0030", "text": "Raw scrape segment 30: extract the top three frequent tokens", "meta": {"origin": "manual", "bytes": 460}}
+{"id": "raw-0031", "text": "Raw scrape segment 31: split a long document into overlapping chunks", "meta": {"origin": "guide", "bytes": 721}}
+{"id": "raw-0032", "text": "Raw scrape segment 32: convert a nested list into a flat mapping", "meta": {"origin": "guide", "bytes": 383}}
+{"id": "raw-0033", "text": "Raw scrape segment 33: check numeric ranges for numeric columns", "meta": {"origin": "manual", "bytes": 133}}
+{"id": "raw-0034", "text": "Raw scrape segment 34: sum values grouped by category", "meta": {"origin": "manual", "bytes": 634}}
+{"id": "raw-0035", "text": "Raw scrape segment 35: sum values grouped by category", "meta": {"origin": "manual", "bytes": 394}}
+{"id": "raw-0036", "text": "Raw scrape segment 36: check numeric ranges for numeric columns", "meta": {"origin": "guide", "bytes": 458}}
+{"id": "raw-0037", "text": "Raw scrape segment 37: validate that every record has a non-empty identifier", "meta": {"origin": "guide", "bytes": 619}}
+{"id": "raw-0038", "text": "Raw scrape segment 38: compare two revision snapshots and list changed fields", "meta": {"origin": "blog", "bytes": 149}}
+{"id": "raw-0039", "text": "Raw scrape segment 39: merge two sorted dictionaries by key", "meta": {"origin": "manual", "bytes": 136}}
+{"id": "raw-0040", "text": "Raw scrape segment 40: retry a failing HTTP request with backoff", "meta": {"origin": "blog", "bytes": 597}}
+{"id": "raw-0041", "text": "Raw scrape segment 41: convert a nested list into a flat mapping", "meta": {"origin": "guide", "bytes": 392}}
+{"id": "raw-0042", "text": "Raw scrape segment 42: sum values grouped by category", "meta": {"origin": "guide", "bytes": 549}}
+{"id": "raw-0043", "text": "Raw scrape segment 43: validate that every record has a non-empty identifier", "meta": {"origin": "guide", "bytes": 683}}
+{"id": "raw-0044", "text": "Raw scrape segment 44: remove duplicate rows from a CSV while keeping the first occurrence", "meta": {"origin": "blog", "bytes": 262}}
+{"id": "raw-0045", "text": "Raw scrape segment 45: compare two revision snapshots and list changed fields", "meta": {"origin": "manual", "bytes": 469}}
+{"id": "raw-0046", "text": "Raw scrape segment 46: split a long document into overlapping chunks", "meta": {"origin": "blog", "bytes": 667}}
+{"id": "raw-0047", "text": "Raw scrape segment 47: convert a nested list into a flat mapping", "meta": {"origin": "manual", "bytes": 319}}
+{"id": "raw-0048", "text": "Raw scrape segment 48: check numeric ranges for numeric columns", "meta": {"origin": "guide", "bytes": 726}}
+{"id": "raw-0049", "text": "Raw scrape segment 49: validate that every record has a non-empty identifier", "meta": {"origin": "manual", "bytes": 861}}
+{"id": "raw-0050", "text": "Raw scrape segment 50: split a long document into overlapping chunks", "meta": {"origin": "blog", "bytes": 635}}
+{"id": "raw-0051", "text": "Raw scrape segment 51: compare two revision snapshots and list changed fields", "meta": {"origin": "guide", "bytes": 858}}
+{"id": "raw-0052", "text": "Raw scrape segment 52: retry a failing HTTP request with backoff", "meta": {"origin": "blog", "bytes": 253}}
+{"id": "raw-0053", "text": "Raw scrape segment 53: merge two sorted dictionaries by key", "meta": {"origin": "manual", "bytes": 233}}
+{"id": "raw-0054", "text": "Raw scrape segment 54: retry a failing HTTP request with backoff", "meta": {"origin": "manual", "bytes": 414}}
+{"id": "raw-0055", "text": "Raw scrape segment 55: merge two sorted dictionaries by key", "meta": {"origin": "blog", "bytes": 352}}
+{"id": "raw-0056", "text": "Raw scrape segment 56: convert a nested list into a flat mapping", "meta": {"origin": "manual", "bytes": 866}}
+{"id": "raw-0057", "text": "Raw scrape segment 57: convert a nested list into a flat mapping", "meta": {"origin": "guide", "bytes": 778}}
+{"id": "raw-0058", "text": "Raw scrape segment 58: retry a failing HTTP request with backoff", "meta": {"origin": "blog", "bytes": 309}}
+{"id": "raw-0059", "text": "Raw scrape segment 59: normalize whitespace in a batch of user prompts", "meta": {"origin": "manual", "bytes": 881}}
+{"id": "raw-0060", "text": "Raw scrape segment 60: merge two sorted dictionaries by key", "meta": {"origin": "blog", "bytes": 541}}
+{"id": "raw-0061", "text": "Raw scrape segment 61: sum values grouped by category", "meta": {"origin": "manual", "bytes": 239}}
+{"id": "raw-0062", "text": "Raw scrape segment 62: convert a nested list into a flat mapping", "meta": {"origin": "guide", "bytes": 363}}
+{"id": "raw-0063", "text": "Raw scrape segment 63: compute the rolling mean over a weather time series", "meta": {"origin": "manual", "bytes": 370}}
+{"id": "raw-0064", "text": "Raw scrape segment 64: retry a failing HTTP request with backoff", "meta": {"origin": "blog", "bytes": 816}}
+{"id": "raw-0065", "text": "Raw scrape segment 65: remove duplicate rows from a CSV while keeping the first occurrence", "meta": {"origin": "manual", "bytes": 852}}
+{"id": "raw-0066", "text": "Raw scrape segment 66: extract the top three frequent tokens", "meta": {"origin": "guide", "bytes": 837}}
+{"id": "raw-0067", "text": "Raw scrape segment 67: convert a nested list into a flat mapping", "meta": {"origin": "guide", "bytes": 208}}
+{"id": "raw-0068", "text": "Raw scrape segment 68: check numeric ranges for numeric columns", "meta": {"origin": "blog", "bytes": 197}}
+{"id": "raw-0069", "text": "Raw scrape segment 69: validate that every record has a non-empty identifier", "meta": {"origin": "blog", "bytes": 620}}
+{"id": "raw-0070", "text": "Raw scrape segment 70: split a long document into overlapping chunks", "meta": {"origin": "blog", "bytes": 444}}
+{"id": "raw-0071", "text": "Raw scrape segment 71: retry a failing HTTP request with backoff", "meta": {"origin": "guide", "bytes": 574}}
+{"id": "raw-0072", "text": "Raw scrape segment 72: sum values grouped by category", "meta": {"origin": "manual", "bytes": 460}}
+{"id": "raw-0073", "text": "Raw scrape segment 73: normalize whitespace in a batch of user prompts", "meta": {"origin": "manual", "bytes": 779}}
+{"id": "raw-0074", "text": "Raw scrape segment 74: remove duplicate rows from a CSV while keeping the first occurrence", "meta": {"origin": "manual", "bytes": 155}}
+{"id": "raw-0075", "text": "Raw scrape segment 75: sum values grouped by category", "meta": {"origin": "blog", "bytes": 287}}
+{"id": "raw-0076", "text": "Raw scrape segment 76: split a long document into overlapping chunks", "meta": {"origin": "manual", "bytes": 135}}
+{"id": "raw-0077", "text": "Raw scrape segment 77: retry a failing HTTP request with backoff", "meta": {"origin": "manual", "bytes": 644}}
+{"id": "raw-0078", "text": "Raw scrape segment 78: normalize whitespace in a batch of user prompts", "meta": {"origin": "blog", "bytes": 632}}
+{"id": "raw-0079", "text": "Raw scrape segment 79: merge two sorted dictionaries by key", "meta": {"origin": "blog", "bytes": 881}}
+{"id": "raw-0080", "text": "Raw scrape segment 80: convert a nested list into a flat mapping", "meta": {"origin": "manual", "bytes": 382}}
+{"id": "raw-0081", "text": "Raw scrape segment 81: normalize whitespace in a batch of user prompts", "meta": {"origin": "blog", "bytes": 354}}
+{"id": "raw-0082", "text": "Raw scrape segment 82: compute the rolling mean over a weather time series", "meta": {"origin": "blog", "bytes": 179}}
+{"id": "raw-0083", "text": "Raw scrape segment 83: retry a failing HTTP request with backoff", "meta": {"origin": "manual", "bytes": 359}}
+{"id": "raw-0084", "text": "Raw scrape segment 84: normalize whitespace in a batch of user prompts", "meta": {"origin": "guide", "bytes": 503}}
+{"id": "raw-0085", "text": "Raw scrape segment 85: remove duplicate rows from a CSV while keeping the first occurrence", "meta": {"origin": "blog", "bytes": 649}}
+{"id": "raw-0086", "text": "Raw scrape segment 86: remove duplicate rows from a CSV while keeping the first occurrence", "meta": {"origin": "blog", "bytes": 129}}
+{"id": "raw-0087", "text": "Raw scrape segment 87: convert a nested list into a flat mapping", "meta": {"origin": "blog", "bytes": 340}}
+{"id": "raw-0088", "text": "Raw scrape segment 88: compare two revision snapshots and list changed fields", "meta": {"origin": "manual", "bytes": 582}}
+{"id": "raw-0089", "text": "Raw scrape segment 89: validate that every record has a non-empty identifier", "meta": {"origin": "manual", "bytes": 663}}
+{"id": "raw-0090", "text": "Raw scrape segment 90: normalize whitespace in a batch of user prompts", "meta": {"origin": "manual", "bytes": 869}}
+{"id": "raw-0091", "text": "Raw scrape segment 91: retry a failing HTTP request with backoff", "meta": {"origin": "manual", "bytes": 211}}
+{"id": "raw-0092", "text": "Raw scrape segment 92: check numeric ranges for numeric columns", "meta": {"origin": "manual", "bytes": 583}}
+{"id": "raw-0093", "text": "Raw scrape segment 93: check numeric ranges for numeric columns", "meta": {"origin": "manual", "bytes": 334}}
+{"id": "raw-0094", "text": "Raw scrape segment 94: compute the rolling mean over a weather time series", "meta": {"origin": "guide", "bytes": 707}}
+{"id": "raw-0095", "text": "Raw scrape segment 95: sum values grouped by category", "meta": {"origin": "manual", "bytes": 419}}
+{"id": "raw-0096", "text": "Raw scrape segment 96: compare two revision snapshots and list changed fields", "meta": {"origin": "manual", "bytes": 561}}
