@@ -1,0 +1,16 @@
+{
+  "file": "20240918_ingest_batch7_final_v2.chatfmt.jsonl",
+  "path": "vendor-archive/releases/nimbus-multilingual-2024-09/data/20240918_ingest_batch7_final_v2.chatfmt.jsonl",
+  "format": "jsonl",
+  "row_count": 240,
+  "sha256": "26153c47373ad6da4038df9400df12aefa48bd876ae7cf9ab2c4514ae4849427",
+  "schema_keys": [
+    "sample_id",
+    "domain",
+    "prompt",
+    "completion",
+    "lang_pair",
+    "quality_flag",
+    "token_count"
+  ]
+}
