@@ -1,0 +1,512 @@
+{"instruction": "Instruction 1: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 2: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0001", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 3: compute the rolling mean over a weather time series", "input": "payload-0002", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 4: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 5: validate that every record has a non-empty identifier", "input": "payload-0004", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 6: convert a nested list into a flat mapping", "input": "payload-0005", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 7: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 8: extract the top three frequent tokens", "input": "payload-0007", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 9: check numeric ranges for numeric columns", "input": "payload-0008", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 10: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 11: split a long document into overlapping chunks", "input": "payload-0010", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 12: compare two revision snapshots and list changed fields", "input": "payload-0011", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 13: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 14: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0013", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 15: compute the rolling mean over a weather time series", "input": "payload-0014", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 16: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 17: validate that every record has a non-empty identifier", "input": "payload-0016", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 18: convert a nested list into a flat mapping", "input": "payload-0017", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 19: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 20: extract the top three frequent tokens", "input": "payload-0019", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 21: check numeric ranges for numeric columns", "input": "payload-0020", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 22: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 23: split a long document into overlapping chunks", "input": "payload-0022", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 24: compare two revision snapshots and list changed fields", "input": "payload-0023", "output": "round the result to two decimals", "source": "web", "lang": "en"}
+{"instruction": "Instruction 25: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 26: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0025", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 27: compute the rolling mean over a weather time series", "input": "payload-0026", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 28: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 29: validate that every record has a non-empty identifier", "input": "payload-0028", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 30: convert a nested list into a flat mapping", "input": "payload-0029", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 31: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 32: extract the top three frequent tokens", "input": "payload-0031", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 33: check numeric ranges for numeric columns", "input": "payload-0032", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 34: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 35: split a long document into overlapping chunks", "input": "payload-0034", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 36: compare two revision snapshots and list changed fields", "input": "payload-0035", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 37: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 38: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0037", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 39: compute the rolling mean over a weather time series", "input": "payload-0038", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 40: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 41: validate that every record has a non-empty identifier", "input": "payload-0040", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 42: convert a nested list into a flat mapping", "input": "payload-0041", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 43: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 44: extract the top three frequent tokens", "input": "payload-0043", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 45: check numeric ranges for numeric columns", "input": "payload-0044", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 46: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 47: split a long document into overlapping chunks", "input": "payload-0046", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 48: compare two revision snapshots and list changed fields", "input": "payload-0047", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 49: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 50: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0049", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 51: compute the rolling mean over a weather time series", "input": "payload-0050", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 52: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 53: validate that every record has a non-empty identifier", "input": "payload-0052", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 54: convert a nested list into a flat mapping", "input": "payload-0053", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 55: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 56: extract the top three frequent tokens", "input": "payload-0055", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 57: check numeric ranges for numeric columns", "input": "payload-0056", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 58: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 59: split a long document into overlapping chunks", "input": "payload-0058", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 60: compare two revision snapshots and list changed fields", "input": "payload-0059", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 61: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 62: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0061", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 63: compute the rolling mean over a weather time series", "input": "payload-0062", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 64: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "web", "lang": "en"}
+{"instruction": "Instruction 65: validate that every record has a non-empty identifier", "input": "payload-0064", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 66: convert a nested list into a flat mapping", "input": "payload-0065", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 67: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 68: extract the top three frequent tokens", "input": "payload-0067", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 69: check numeric ranges for numeric columns", "input": "payload-0068", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 70: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 71: split a long document into overlapping chunks", "input": "payload-0070", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 72: compare two revision snapshots and list changed fields", "input": "payload-0071", "output": "round the result to two decimals", "source": "web", "lang": "en"}
+{"instruction": "Instruction 73: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 74: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0073", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 75: compute the rolling mean over a weather time series", "input": "payload-0074", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 76: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 77: validate that every record has a non-empty identifier", "input": "payload-0076", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 78: convert a nested list into a flat mapping", "input": "payload-0077", "output": "apply the transformation in a single pass", "source": "code", "lang": "en"}
+{"instruction": "Instruction 79: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 80: extract the top three frequent tokens", "input": "payload-0079", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 81: check numeric ranges for numeric columns", "input": "payload-0080", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 82: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 83: split a long document into overlapping chunks", "input": "payload-0082", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 84: compare two revision snapshots and list changed fields", "input": "payload-0083", "output": "return {'status': 'ok', 'rows': 42}", "source": "books", "lang": "en"}
+{"instruction": "Instruction 85: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 86: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0085", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 87: compute the rolling mean over a weather time series", "input": "payload-0086", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 88: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 89: validate that every record has a non-empty identifier", "input": "payload-0088", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 90: convert a nested list into a flat mapping", "input": "payload-0089", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 91: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 92: extract the top three frequent tokens", "input": "payload-0091", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 93: check numeric ranges for numeric columns", "input": "payload-0092", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 94: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 95: split a long document into overlapping chunks", "input": "payload-0094", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 96: compare two revision snapshots and list changed fields", "input": "payload-0095", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 97: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 98: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0097", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 99: compute the rolling mean over a weather time series", "input": "payload-0098", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 100: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 101: validate that every record has a non-empty identifier", "input": "payload-0100", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 102: convert a nested list into a flat mapping", "input": "payload-0101", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 103: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 104: extract the top three frequent tokens", "input": "payload-0103", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 105: check numeric ranges for numeric columns", "input": "payload-0104", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 106: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 107: split a long document into overlapping chunks", "input": "payload-0106", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 108: compare two revision snapshots and list changed fields", "input": "payload-0107", "output": "return {'status': 'ok', 'rows': 42}", "source": "books", "lang": "en"}
+{"instruction": "Instruction 109: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 110: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0109", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 111: compute the rolling mean over a weather time series", "input": "payload-0110", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 112: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 113: validate that every record has a non-empty identifier", "input": "payload-0112", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 114: convert a nested list into a flat mapping", "input": "payload-0113", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 115: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 116: extract the top three frequent tokens", "input": "payload-0115", "output": "return {'status': 'ok', 'rows': 42}", "source": "books", "lang": "en"}
+{"instruction": "Instruction 117: check numeric ranges for numeric columns", "input": "payload-0116", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 118: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 119: split a long document into overlapping chunks", "input": "payload-0118", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 120: compare two revision snapshots and list changed fields", "input": "payload-0119", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 121: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 122: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0121", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 123: compute the rolling mean over a weather time series", "input": "payload-0122", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 124: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 125: validate that every record has a non-empty identifier", "input": "payload-0124", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 126: convert a nested list into a flat mapping", "input": "payload-0125", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 127: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 128: extract the top three frequent tokens", "input": "payload-0127", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 129: check numeric ranges for numeric columns", "input": "payload-0128", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 130: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 131: split a long document into overlapping chunks", "input": "payload-0130", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 132: compare two revision snapshots and list changed fields", "input": "payload-0131", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 133: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 134: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0133", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 135: compute the rolling mean over a weather time series", "input": "payload-0134", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 136: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 137: validate that every record has a non-empty identifier", "input": "payload-0136", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 138: convert a nested list into a flat mapping", "input": "payload-0137", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 139: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 140: extract the top three frequent tokens", "input": "payload-0139", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 141: check numeric ranges for numeric columns", "input": "payload-0140", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 142: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 143: split a long document into overlapping chunks", "input": "payload-0142", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 144: compare two revision snapshots and list changed fields", "input": "payload-0143", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 145: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 146: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0145", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 147: compute the rolling mean over a weather time series", "input": "payload-0146", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 148: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 149: validate that every record has a non-empty identifier", "input": "payload-0148", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 150: convert a nested list into a flat mapping", "input": "payload-0149", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 151: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 152: extract the top three frequent tokens", "input": "payload-0151", "output": "round the result to two decimals", "source": "web", "lang": "en"}
+{"instruction": "Instruction 153: check numeric ranges for numeric columns", "input": "payload-0152", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 154: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 155: split a long document into overlapping chunks", "input": "payload-0154", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 156: compare two revision snapshots and list changed fields", "input": "payload-0155", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 157: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 158: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0157", "output": "apply the transformation in a single pass", "source": "code", "lang": "en"}
+{"instruction": "Instruction 159: compute the rolling mean over a weather time series", "input": "payload-0158", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 160: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "web", "lang": "en"}
+{"instruction": "Instruction 161: validate that every record has a non-empty identifier", "input": "payload-0160", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 162: convert a nested list into a flat mapping", "input": "payload-0161", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 163: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 164: extract the top three frequent tokens", "input": "payload-0163", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 165: check numeric ranges for numeric columns", "input": "payload-0164", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 166: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 167: split a long document into overlapping chunks", "input": "payload-0166", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 168: compare two revision snapshots and list changed fields", "input": "payload-0167", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 169: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 170: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0169", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 171: compute the rolling mean over a weather time series", "input": "payload-0170", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 172: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 173: validate that every record has a non-empty identifier", "input": "payload-0172", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 174: convert a nested list into a flat mapping", "input": "payload-0173", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 175: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 176: extract the top three frequent tokens", "input": "payload-0175", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 177: check numeric ranges for numeric columns", "input": "payload-0176", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 178: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 179: split a long document into overlapping chunks", "input": "payload-0178", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 180: compare two revision snapshots and list changed fields", "input": "payload-0179", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 181: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 182: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0181", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 183: compute the rolling mean over a weather time series", "input": "payload-0182", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 184: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 185: validate that every record has a non-empty identifier", "input": "payload-0184", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 186: convert a nested list into a flat mapping", "input": "payload-0185", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 187: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 188: extract the top three frequent tokens", "input": "payload-0187", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 189: check numeric ranges for numeric columns", "input": "payload-0188", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 190: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 191: split a long document into overlapping chunks", "input": "payload-0190", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 192: compare two revision snapshots and list changed fields", "input": "payload-0191", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 193: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 194: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0193", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 195: compute the rolling mean over a weather time series", "input": "payload-0194", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 196: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 197: validate that every record has a non-empty identifier", "input": "payload-0196", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 198: convert a nested list into a flat mapping", "input": "payload-0197", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 199: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 200: extract the top three frequent tokens", "input": "payload-0199", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 201: check numeric ranges for numeric columns", "input": "payload-0200", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 202: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 203: split a long document into overlapping chunks", "input": "payload-0202", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 204: compare two revision snapshots and list changed fields", "input": "payload-0203", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 205: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 206: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0205", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 207: compute the rolling mean over a weather time series", "input": "payload-0206", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 208: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "web", "lang": "en"}
+{"instruction": "Instruction 209: validate that every record has a non-empty identifier", "input": "payload-0208", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 210: convert a nested list into a flat mapping", "input": "payload-0209", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 211: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 212: extract the top three frequent tokens", "input": "payload-0211", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 213: check numeric ranges for numeric columns", "input": "payload-0212", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 214: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 215: split a long document into overlapping chunks", "input": "payload-0214", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 216: compare two revision snapshots and list changed fields", "input": "payload-0215", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 217: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 218: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0217", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 219: compute the rolling mean over a weather time series", "input": "payload-0218", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 220: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 221: validate that every record has a non-empty identifier", "input": "payload-0220", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 222: convert a nested list into a flat mapping", "input": "payload-0221", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 223: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 224: extract the top three frequent tokens", "input": "payload-0223", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 225: check numeric ranges for numeric columns", "input": "payload-0224", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 226: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 227: split a long document into overlapping chunks", "input": "payload-0226", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 228: compare two revision snapshots and list changed fields", "input": "payload-0227", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 229: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 230: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0229", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 231: compute the rolling mean over a weather time series", "input": "payload-0230", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 232: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "web", "lang": "en"}
+{"instruction": "Instruction 233: validate that every record has a non-empty identifier", "input": "payload-0232", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 234: convert a nested list into a flat mapping", "input": "payload-0233", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 235: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 236: extract the top three frequent tokens", "input": "payload-0235", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 237: check numeric ranges for numeric columns", "input": "payload-0236", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 238: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 239: split a long document into overlapping chunks", "input": "payload-0238", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 240: compare two revision snapshots and list changed fields", "input": "payload-0239", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 241: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 242: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0241", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 243: compute the rolling mean over a weather time series", "input": "payload-0242", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 244: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 245: validate that every record has a non-empty identifier", "input": "payload-0244", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 246: convert a nested list into a flat mapping", "input": "payload-0245", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 247: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 248: extract the top three frequent tokens", "input": "payload-0247", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 249: check numeric ranges for numeric columns", "input": "payload-0248", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 250: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 251: split a long document into overlapping chunks", "input": "payload-0250", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 252: compare two revision snapshots and list changed fields", "input": "payload-0251", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 253: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 254: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0253", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 255: compute the rolling mean over a weather time series", "input": "payload-0254", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 256: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 257: validate that every record has a non-empty identifier", "input": "payload-0256", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 258: convert a nested list into a flat mapping", "input": "payload-0257", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 259: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 260: extract the top three frequent tokens", "input": "payload-0259", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 261: check numeric ranges for numeric columns", "input": "payload-0260", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 262: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "code", "lang": "en"}
+{"instruction": "Instruction 263: split a long document into overlapping chunks", "input": "payload-0262", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 264: compare two revision snapshots and list changed fields", "input": "payload-0263", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 265: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 266: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0265", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 267: compute the rolling mean over a weather time series", "input": "payload-0266", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 268: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 269: validate that every record has a non-empty identifier", "input": "payload-0268", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 270: convert a nested list into a flat mapping", "input": "payload-0269", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 271: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 272: extract the top three frequent tokens", "input": "payload-0271", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 273: check numeric ranges for numeric columns", "input": "payload-0272", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 274: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 275: split a long document into overlapping chunks", "input": "payload-0274", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 276: compare two revision snapshots and list changed fields", "input": "payload-0275", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 277: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 278: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0277", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 279: compute the rolling mean over a weather time series", "input": "payload-0278", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 280: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 281: validate that every record has a non-empty identifier", "input": "payload-0280", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 282: convert a nested list into a flat mapping", "input": "payload-0281", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 283: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 284: extract the top three frequent tokens", "input": "payload-0283", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 285: check numeric ranges for numeric columns", "input": "payload-0284", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 286: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "code", "lang": "en"}
+{"instruction": "Instruction 287: split a long document into overlapping chunks", "input": "payload-0286", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 288: compare two revision snapshots and list changed fields", "input": "payload-0287", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 289: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 290: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0289", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 291: compute the rolling mean over a weather time series", "input": "payload-0290", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 292: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "books", "lang": "en"}
+{"instruction": "Instruction 293: validate that every record has a non-empty identifier", "input": "payload-0292", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 294: convert a nested list into a flat mapping", "input": "payload-0293", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 295: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 296: extract the top three frequent tokens", "input": "payload-0295", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 297: check numeric ranges for numeric columns", "input": "payload-0296", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 298: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 299: split a long document into overlapping chunks", "input": "payload-0298", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 300: compare two revision snapshots and list changed fields", "input": "payload-0299", "output": "return {'status': 'ok', 'rows': 42}", "source": "books", "lang": "en"}
+{"instruction": "Instruction 301: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 302: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0301", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 303: compute the rolling mean over a weather time series", "input": "payload-0302", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 304: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 305: validate that every record has a non-empty identifier", "input": "payload-0304", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 306: convert a nested list into a flat mapping", "input": "payload-0305", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 307: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 308: extract the top three frequent tokens", "input": "payload-0307", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 309: check numeric ranges for numeric columns", "input": "payload-0308", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 310: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 311: split a long document into overlapping chunks", "input": "payload-0310", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 312: compare two revision snapshots and list changed fields", "input": "payload-0311", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 313: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 314: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0313", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 315: compute the rolling mean over a weather time series", "input": "payload-0314", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 316: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 317: validate that every record has a non-empty identifier", "input": "payload-0316", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 318: convert a nested list into a flat mapping", "input": "payload-0317", "output": "apply the transformation in a single pass", "source": "code", "lang": "en"}
+{"instruction": "Instruction 319: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 320: extract the top three frequent tokens", "input": "payload-0319", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 321: check numeric ranges for numeric columns", "input": "payload-0320", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 322: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 323: split a long document into overlapping chunks", "input": "payload-0322", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 324: compare two revision snapshots and list changed fields", "input": "payload-0323", "output": "return {'status': 'ok', 'rows': 42}", "source": "books", "lang": "en"}
+{"instruction": "Instruction 325: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 326: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0325", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 327: compute the rolling mean over a weather time series", "input": "payload-0326", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 328: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 329: validate that every record has a non-empty identifier", "input": "payload-0328", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 330: convert a nested list into a flat mapping", "input": "payload-0329", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 331: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 332: extract the top three frequent tokens", "input": "payload-0331", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 333: check numeric ranges for numeric columns", "input": "payload-0332", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 334: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 335: split a long document into overlapping chunks", "input": "payload-0334", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 336: compare two revision snapshots and list changed fields", "input": "payload-0335", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 337: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 338: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0337", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 339: compute the rolling mean over a weather time series", "input": "payload-0338", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 340: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 341: validate that every record has a non-empty identifier", "input": "payload-0340", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 342: convert a nested list into a flat mapping", "input": "payload-0341", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 343: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 344: extract the top three frequent tokens", "input": "payload-0343", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 345: check numeric ranges for numeric columns", "input": "payload-0344", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 346: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 347: split a long document into overlapping chunks", "input": "payload-0346", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 348: compare two revision snapshots and list changed fields", "input": "payload-0347", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 349: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 350: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0349", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 351: compute the rolling mean over a weather time series", "input": "payload-0350", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 352: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 353: validate that every record has a non-empty identifier", "input": "payload-0352", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 354: convert a nested list into a flat mapping", "input": "payload-0353", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 355: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 356: extract the top three frequent tokens", "input": "payload-0355", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 357: check numeric ranges for numeric columns", "input": "payload-0356", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 358: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 359: split a long document into overlapping chunks", "input": "payload-0358", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 360: compare two revision snapshots and list changed fields", "input": "payload-0359", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 361: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 362: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0361", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 363: compute the rolling mean over a weather time series", "input": "payload-0362", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 364: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 365: validate that every record has a non-empty identifier", "input": "payload-0364", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 366: convert a nested list into a flat mapping", "input": "payload-0365", "output": "apply the transformation in a single pass", "source": "code", "lang": "en"}
+{"instruction": "Instruction 367: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 368: extract the top three frequent tokens", "input": "payload-0367", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 369: check numeric ranges for numeric columns", "input": "payload-0368", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 370: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 371: split a long document into overlapping chunks", "input": "payload-0370", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 372: compare two revision snapshots and list changed fields", "input": "payload-0371", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 373: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 374: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0373", "output": "apply the transformation in a single pass", "source": "code", "lang": "en"}
+{"instruction": "Instruction 375: compute the rolling mean over a weather time series", "input": "payload-0374", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 376: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 377: validate that every record has a non-empty identifier", "input": "payload-0376", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 378: convert a nested list into a flat mapping", "input": "payload-0377", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 379: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 380: extract the top three frequent tokens", "input": "payload-0379", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 381: check numeric ranges for numeric columns", "input": "payload-0380", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 382: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 383: split a long document into overlapping chunks", "input": "payload-0382", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 384: compare two revision snapshots and list changed fields", "input": "payload-0383", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 385: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 386: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0385", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 387: compute the rolling mean over a weather time series", "input": "payload-0386", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 388: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 389: validate that every record has a non-empty identifier", "input": "payload-0388", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 390: convert a nested list into a flat mapping", "input": "payload-0389", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 391: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 392: extract the top three frequent tokens", "input": "payload-0391", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 393: check numeric ranges for numeric columns", "input": "payload-0392", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 394: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 395: split a long document into overlapping chunks", "input": "payload-0394", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 396: compare two revision snapshots and list changed fields", "input": "payload-0395", "output": "return {'status': 'ok', 'rows': 42}", "source": "books", "lang": "en"}
+{"instruction": "Instruction 397: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 398: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0397", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 399: compute the rolling mean over a weather time series", "input": "payload-0398", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 400: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 401: validate that every record has a non-empty identifier", "input": "payload-0400", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 402: convert a nested list into a flat mapping", "input": "payload-0401", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 403: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 404: extract the top three frequent tokens", "input": "payload-0403", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 405: check numeric ranges for numeric columns", "input": "payload-0404", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 406: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 407: split a long document into overlapping chunks", "input": "payload-0406", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 408: compare two revision snapshots and list changed fields", "input": "payload-0407", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 409: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 410: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0409", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 411: compute the rolling mean over a weather time series", "input": "payload-0410", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 412: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 413: validate that every record has a non-empty identifier", "input": "payload-0412", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 414: convert a nested list into a flat mapping", "input": "payload-0413", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 415: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 416: extract the top three frequent tokens", "input": "payload-0415", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 417: check numeric ranges for numeric columns", "input": "payload-0416", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 418: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 419: split a long document into overlapping chunks", "input": "payload-0418", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 420: compare two revision snapshots and list changed fields", "input": "payload-0419", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 421: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 422: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0421", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 423: compute the rolling mean over a weather time series", "input": "payload-0422", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 424: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 425: validate that every record has a non-empty identifier", "input": "payload-0424", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 426: convert a nested list into a flat mapping", "input": "payload-0425", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 427: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 428: extract the top three frequent tokens", "input": "payload-0427", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 429: check numeric ranges for numeric columns", "input": "payload-0428", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 430: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 431: split a long document into overlapping chunks", "input": "payload-0430", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 432: compare two revision snapshots and list changed fields", "input": "payload-0431", "output": "round the result to two decimals", "source": "web", "lang": "en"}
+{"instruction": "Instruction 433: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 434: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0433", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 435: compute the rolling mean over a weather time series", "input": "payload-0434", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 436: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 437: validate that every record has a non-empty identifier", "input": "payload-0436", "output": "assert isinstance(payload, dict)", "source": "books", "lang": "en"}
+{"instruction": "Instruction 438: convert a nested list into a flat mapping", "input": "payload-0437", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 439: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 440: extract the top three frequent tokens", "input": "payload-0439", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 441: check numeric ranges for numeric columns", "input": "payload-0440", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 442: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 443: split a long document into overlapping chunks", "input": "payload-0442", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 444: compare two revision snapshots and list changed fields", "input": "payload-0443", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 445: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 446: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0445", "output": "apply the transformation in a single pass", "source": "code", "lang": "en"}
+{"instruction": "Instruction 447: compute the rolling mean over a weather time series", "input": "payload-0446", "output": "handle the corner case of an empty input", "source": "code", "lang": "en"}
+{"instruction": "Instruction 448: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 449: validate that every record has a non-empty identifier", "input": "payload-0448", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 450: convert a nested list into a flat mapping", "input": "payload-0449", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 451: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 452: extract the top three frequent tokens", "input": "payload-0451", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 453: check numeric ranges for numeric columns", "input": "payload-0452", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 454: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 455: split a long document into overlapping chunks", "input": "payload-0454", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 456: compare two revision snapshots and list changed fields", "input": "payload-0455", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 457: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "books", "lang": "en"}
+{"instruction": "Instruction 458: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0457", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 459: compute the rolling mean over a weather time series", "input": "payload-0458", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 460: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "books", "lang": "en"}
+{"instruction": "Instruction 461: validate that every record has a non-empty identifier", "input": "payload-0460", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 462: convert a nested list into a flat mapping", "input": "payload-0461", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 463: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 464: extract the top three frequent tokens", "input": "payload-0463", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 465: check numeric ranges for numeric columns", "input": "payload-0464", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 466: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 467: split a long document into overlapping chunks", "input": "payload-0466", "output": "[91, 42, 17]", "source": "books", "lang": "en"}
+{"instruction": "Instruction 468: compare two revision snapshots and list changed fields", "input": "payload-0467", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 469: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 470: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0469", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 471: compute the rolling mean over a weather time series", "input": "payload-0470", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 472: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 473: validate that every record has a non-empty identifier", "input": "payload-0472", "output": "use a defaultdict and sort at the end", "source": "web", "lang": "en"}
+{"instruction": "Instruction 474: convert a nested list into a flat mapping", "input": "payload-0473", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 475: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "code", "lang": "en"}
+{"instruction": "Instruction 476: extract the top three frequent tokens", "input": "payload-0475", "output": "return {'status': 'ok', 'rows': 42}", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 477: check numeric ranges for numeric columns", "input": "payload-0476", "output": "assert isinstance(payload, dict)", "source": "code", "lang": "en"}
+{"instruction": "Instruction 478: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 479: split a long document into overlapping chunks", "input": "payload-0478", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 480: compare two revision snapshots and list changed fields", "input": "payload-0479", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 481: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 482: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0481", "output": "preserve insertion order and drop empty keys", "source": "books", "lang": "en"}
+{"instruction": "Instruction 483: compute the rolling mean over a weather time series", "input": "payload-0482", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 484: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 485: validate that every record has a non-empty identifier", "input": "payload-0484", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 486: convert a nested list into a flat mapping", "input": "payload-0485", "output": "apply the transformation in a single pass", "source": "web", "lang": "en"}
+{"instruction": "Instruction 487: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 488: extract the top three frequent tokens", "input": "payload-0487", "output": "round the result to two decimals", "source": "code", "lang": "en"}
+{"instruction": "Instruction 489: check numeric ranges for numeric columns", "input": "payload-0488", "output": "use a defaultdict and sort at the end", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 490: retry a failing HTTP request with backoff", "input": "", "output": "preserve insertion order and drop empty keys", "source": "code", "lang": "en"}
+{"instruction": "Instruction 491: split a long document into overlapping chunks", "input": "payload-0490", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 492: compare two revision snapshots and list changed fields", "input": "payload-0491", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 493: merge two sorted dictionaries by key", "input": "", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 494: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0493", "output": "apply the transformation in a single pass", "source": "books", "lang": "en"}
+{"instruction": "Instruction 495: compute the rolling mean over a weather time series", "input": "payload-0494", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 496: normalize whitespace in a batch of user prompts", "input": "", "output": "round the result to two decimals", "source": "web", "lang": "en"}
+{"instruction": "Instruction 497: validate that every record has a non-empty identifier", "input": "payload-0496", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 498: convert a nested list into a flat mapping", "input": "payload-0497", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 499: sum values grouped by category", "input": "", "output": "[91, 42, 17]", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 500: extract the top three frequent tokens", "input": "payload-0499", "output": "return {'status': 'ok', 'rows': 42}", "source": "web", "lang": "en"}
+{"instruction": "Instruction 501: check numeric ranges for numeric columns", "input": "payload-0500", "output": "assert isinstance(payload, dict)", "source": "web", "lang": "en"}
+{"instruction": "Instruction 502: retry a failing HTTP request with backoff", "input": "", "output": "apply the transformation in a single pass", "source": "code", "lang": "en"}
+{"instruction": "Instruction 503: split a long document into overlapping chunks", "input": "payload-0502", "output": "handle the corner case of an empty input", "source": "web", "lang": "en"}
+{"instruction": "Instruction 504: compare two revision snapshots and list changed fields", "input": "payload-0503", "output": "round the result to two decimals", "source": "books", "lang": "en"}
+{"instruction": "Instruction 505: merge two sorted dictionaries by key", "input": "", "output": "use a defaultdict and sort at the end", "source": "code", "lang": "en"}
+{"instruction": "Instruction 506: remove duplicate rows from a CSV while keeping the first occurrence", "input": "payload-0505", "output": "preserve insertion order and drop empty keys", "source": "web", "lang": "en"}
+{"instruction": "Instruction 507: compute the rolling mean over a weather time series", "input": "payload-0506", "output": "[91, 42, 17]", "source": "web", "lang": "en"}
+{"instruction": "Instruction 508: normalize whitespace in a batch of user prompts", "input": "", "output": "return {'status': 'ok', 'rows': 42}", "source": "code", "lang": "en"}
+{"instruction": "Instruction 509: validate that every record has a non-empty identifier", "input": "payload-0508", "output": "assert isinstance(payload, dict)", "source": "forum", "lang": "en"}
+{"instruction": "Instruction 510: convert a nested list into a flat mapping", "input": "payload-0509", "output": "apply the transformation in a single pass", "source": "code", "lang": "en"}
+{"instruction": "Instruction 511: sum values grouped by category", "input": "", "output": "handle the corner case of an empty input", "source": "books", "lang": "en"}
+{"instruction": "Instruction 512: extract the top three frequent tokens", "input": "payload-0511", "output": "round the result to two decimals", "source": "code", "lang": "en"}
