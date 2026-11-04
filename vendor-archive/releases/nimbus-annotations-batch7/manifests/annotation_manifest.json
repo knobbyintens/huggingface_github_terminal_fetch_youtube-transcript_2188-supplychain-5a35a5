@@ -1,0 +1,14 @@
+{
+  "file": "batch7_annotation_layer.jsonl",
+  "path": "vendor-archive/releases/nimbus-annotations-batch7/annotations/batch7_annotation_layer.jsonl",
+  "format": "jsonl",
+  "row_count": 480,
+  "sha256": "9aca02325e3bee9fba9e2d6e14b76f0289b9fd8a943e4bbcee22023ae32a4fd2",
+  "schema_keys": [
+    "sample_id",
+    "annotator_id",
+    "label",
+    "confidence",
+    "notes"
+  ]
+}
