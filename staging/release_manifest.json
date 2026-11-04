@@ -1,0 +1,24 @@
+{
+  "release_id": "REL-2026-W45-09",
+  "pipeline": "instruction-tuning release",
+  "generated_at": "2026-11-04",
+  "artifact": {
+    "path": "staging/artifacts/20240918_ingest_batch7_final_v2.chatfmt.jsonl",
+    "format": "jsonl",
+    "row_count": 96,
+    "sha256": "53c9059cd0fe863f56a467a18127677dca31d8b55feda5af989081158d923702",
+    "schema_keys": [
+      "sample_id",
+      "domain",
+      "prompt",
+      "completion",
+      "quality_flag",
+      "token_count"
+    ]
+  },
+  "upstream": {
+    "attribution": "Derived from the upstream instruction-tuning corpus published by the Nimbus Data team.",
+    "artifact_name": "20240918_ingest_batch7_final_v2.chatfmt.jsonl"
+  },
+  "provenance_record_path": "staging/provenance/upstream_provenance.json"
+}
